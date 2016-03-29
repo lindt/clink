@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/lindt/clink.svg)](https://travis-ci.org/lindt/clink)
+
 # clink: containerize all the things
 
 Warning: This is **extremely beta.** Use at your own risk.
